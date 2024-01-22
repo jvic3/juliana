@@ -1,0 +1,18 @@
+.para{
+    display: flex;
+}
+h3{
+    color: chocolate;
+}
+.main{
+    text-align: center;
+}
+body{
+    background: blanchedalmond;
+}
+hr{
+    color: cadetblue;
+}
+.img{
+    text-align: center;
+}
